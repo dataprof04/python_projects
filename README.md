@@ -1,2 +1,2 @@
 # python_projects
-sample python projects
+mini python project from IBM Data Analyst Programme
